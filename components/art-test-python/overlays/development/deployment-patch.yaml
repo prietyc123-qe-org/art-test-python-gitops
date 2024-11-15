@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: artifactory-artifactory.apps.rhtap-staging.7g6o.p1.openshiftapps.com/test-docker-local/bootstrap:94fe0c42d0a9eb8592b97f0d942f76dcbd151de1@sha256:199569dea48075b3aca4e7a1cb465a6710bfc281e2c23d715ff9d8355af9a93b
+        - image: artifactory-artifactory.apps.rhtap-staging.7g6o.p1.openshiftapps.com/test-docker-local/bootstrap:ac51638d9cd21a98903d61c2ad26a6b1dea4ebc8@sha256:c584f3cb15da2464bfd20b38f6f8adcab57bf40264e4cefaf7ad40a80bfbb859
           name: container-image
